@@ -1,0 +1,83 @@
+git:
+Helps developer to track and manage the code
+Distributed version control
+
+commands:
+mkdir = make directory
+cd = getting into directory
+ls =shows the file or dir
+git init = Getting into working space
+git clone = clones the entire repo
+ls -a = shows hiddenfiles
+touch name of file = create a new file
+git status = To know the stage of files 
+git add .(everything pwd)= put all files in staging area
+git add (filename)= one files 
+git commit -m(message) =  save the file
+vi editor = To edit file 
+vi - i - .... - esc -:wq!(save and quit)
+cat filename = shows vi script
+git log = details
+rm -rf .git = empties git init
+git reset hash id = that given in log above commits will be deleted
+git stash = To save 
+git stash list = list order of stashed file
+git stash pop = discard the changes from top
+git stash = clear deleted
+git remote add origin url = 
+git remote -v = show all url attached to the folders
+git push origin master = pushing file 
+git merge (branch) = merges the branches
+git pull = fetch and merge any commit
+git branch name = create branch
+git checkout name = switching up
+git branch = To check branch
+git remote add upstream = forking it
+git rebase -i = apply any commits of current branch ahead of specific one
+git reset --hard = resets the current commit to other commit and discards other commit
+git reset --soft =  resets the current commit to other commit keep changes in both working and staging area
+git cherry-pick = copies the changes as a new commit 
+git reflog = deleted files will be taken
+git:
+Helps developer to track and manage the code
+Distributed version control
+
+commands:
+mkdir = make directory
+cd = getting into directory
+ls =shows the file or dir
+git init = Getting into working space
+git clone = clones the entire repo
+ls -a = shows hiddenfiles
+touch name of file = create a new file
+git status = To know the stage of files
+git add .(everything pwd)= put all files in staging area
+git add (filename)= one files
+git commit -m(message) =  save the file
+vi editor = To edit file
+vi - i - .... - esc -:wq!(save and quit)
+cat filename = shows vi script
+git log = details
+rm -rf .git = empties git init
+git reset hash id = that given in log above commits will be deleted
+git stash = To save
+git stash list = list order of stashed file
+git stash pop = discard the changes from top
+git stash = clear deleted
+git remote add origin url =
+git remote -v = show all url attached to the folders
+git push origin master = pushing file
+git merge (branch) = merges the branches
+git pull = fetch and merge any commit
+git branch name = create branch
+git checkout name = switching up
+git branch = To check branch
+git remote add upstream = forking it
+git rebase -i = apply any commits of current branch ahead of specific one
+git reset --hard = resets the current commit to other commit and discards other commit
+git reset --soft =  resets the current commit to other commit keep changes in both working and staging area
+git cherry-pick = copies the changes as a new commit
+git reflog = deleted files will be taken
+
+~
+
